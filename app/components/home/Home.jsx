@@ -22,16 +22,7 @@ export default class Home extends Component {
 						Add a <a href='https://reacttraining.com/react-router/web/api/Link'><strong>React Router Link</strong></a> into <a href='components/layout/menu/Menu.jsx'><code>&lt;Menu /&gt;</code></a> above.
 					</li>
 					<li className='Home-list-item'>
-						Create <code>&lt;Faq /&gt;</code> component with a list of questions and answers
-					</li>
-					<li className='Home-list-item'>
-						Perform an HTTP request to <code>/faq.json</code>, update state, then fill up the FAQ with data.
-					</li>
-					<li className='Home-list-item'>
-						Add a form allowing user to add a new question/answer.
-					</li>
-					<li className='Home-list-item'>
-						Make both routes load asynchronously.
+						See readme for more info.
 					</li>
 				</ol>
 			</Layout>
