@@ -22,4 +22,3 @@
 	1. As user types, replace `o`'s with `0`'s
 
 1.  Make both routes load asynchronously
-1.  Make a pull request once you're done!
